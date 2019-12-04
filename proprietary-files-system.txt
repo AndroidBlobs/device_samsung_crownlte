@@ -1,0 +1,4 @@
+etc/firmware/samsung_wakeup_am_quiet_en_us_v2.bin
+etc/firmware/samsung_wakeup_grammar_quiet_en_us_v2.bin
+etc/nfcee_access.xml
+lib64/libaptX_encoder.so

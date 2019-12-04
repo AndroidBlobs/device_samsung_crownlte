@@ -1,0 +1,61 @@
+libArcSoft3DStickerEngine.so
+libArcSoftFaceAlignment.so
+libDLInterface.so
+libGAE.so
+libInteractiveShotEngineCam20.so
+libMcClient.so
+libMcRegistry.so
+libMotionPanoramaInterface.so
+libOpenCL.so
+libOpenCv.so
+libQjpeg.so
+libSDKRecognitionText.so
+libSEF.so
+libSamsungPkcs11Wrapper.so
+libSecEmbms.so
+libSelfMotionPanoramaInterface.so
+lib_AnimationEngine_O.so 64
+libandroid_ssrm.so
+libapa_jni.so
+libapex_jni.so
+libcore2nativeutil.so
+libexifa.so
+libexynotera.so 64
+libfrontBokehWrapper.so
+libjack.so
+libjpega.so
+libknox_remotedesktopclient.so
+libobject_detection_classification_snap.so
+libopensslsmime.so
+libpa.so
+libquram.so
+libquramagifencoder.so
+libremotedesktop_client.so
+libsaiv.so
+libsaiv_BeautySolution.so
+libsaiv_FacePreProcessing.so
+libsaiv_HprFace_FD_jni.so
+libsaiv_HprFace_GAE_api.so
+libsaiv_HprFace_LD_jni.so
+libsaiv_HprFace_utils_jni.so
+libsaiv_vision.so
+libsecBeautyGestureAttribute.so
+libsecGestureAttribute.so
+libsechelper_engine.so
+libsecimaging.so
+libsecjpeginterface.so
+libsecpkcs11_engine.so
+libsecure_storage_jni.so
+libsemcamera_jni.so
+libsmart_cropping.so
+libsmartfitting_jni.so
+libsnap_caffe.so 64
+libsomp.so
+libsurfaceutil.so
+libtensorflow_inference_native.so 64
+libtlc_comm.so
+libtmdisplay.so
+libvideoeditor_O_za.so 64
+libvideoeditor_jni_O_za.so 64
+libvideofittinghelper.so
+libxcv.so

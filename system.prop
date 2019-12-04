@@ -1,0 +1,37 @@
+#
+# from device/samsung/crownlte/system.prop
+#
+#
+# system.prop for universal9810
+#
+
+ro.arch=exynos9810
+ro.kernel.qemu=0
+ro.kernel.qemu.gles=2
+persist.demo.hdmirotationlock=false
+
+#Enable DSDS
+#persist.radio.multisim.config=dsds
+
+#Enable S.LSI USB settings
+dev.usbsetting.embedded=on
+
+#RILD debug level setting
+ro.debug_level=0x494d
+
+# Specify a vendor RIL and a device node
+rild.libargs=-d /dev/umts_ipc0
+
+# read DS/SS property
+import /efs/factory.prop
+
+#Enable csc for vendor image
+ro.exynos.vendor.cscsupported=1
+
+#Phone early start enable flag
+sys.config.phone_start_early=true
+
+#MARs Enable Freecess
+sys.config.mars_freecess=true
+
+#
